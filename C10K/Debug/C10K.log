@@ -1,0 +1,11 @@
+﻿VisualGDB : warning : Cannot update the source file list in your Makefile: CMake source list updater: cannot find source list statement in CMakeLists.txt. Your may encounter strange build results.
+  VisualGDB: Sending 1 updated source file to build machine...
+  VisualGDB: Run "make " in directory "/home/test/project/CNK/Debug" on test@172.25.51.7 (SSH)
+  Scanning dependencies of target net
+  [ 14%] Building CXX object src/utility/CMakeFiles/net.dir/SimpleClientApi.cpp.o
+  [ 28%] Linking CXX static library libnet.a
+  [ 42%] Built target net
+  [ 57%] Linking CXX executable ../../bin/simple_client
+  [ 71%] Built target simple_client
+  [ 85%] Linking CXX executable ../../bin/simple_server
+  [100%] Built target simple_server
